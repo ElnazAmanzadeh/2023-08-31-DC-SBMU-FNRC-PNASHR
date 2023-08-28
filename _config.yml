@@ -53,7 +53,7 @@ pilot: true
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Medical-AI Summer School"
+title: "Shahid Beheshti University of Medical Sciences and PNASHR Medical-AI Summer School"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
